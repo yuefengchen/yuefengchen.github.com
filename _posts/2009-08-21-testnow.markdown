@@ -6,7 +6,6 @@ layout: post
 Here is my Git SVN workflow
 ======
 
-<code> There is a literal backtick  </code>
 {% highlight ruby %} 
 def foo
   puts 'foo'

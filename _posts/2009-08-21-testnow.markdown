@@ -1,0 +1,18 @@
+--- 
+title: testNowDown
+layout: post
+---
+
+Here is my Git SVN workflow
+======
+
+<p><code> There is a literal backtick  </code></p>
+
+{% highlight ruby %} 
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+DC++
+	<h1>HTML code</h1>
+	<p class="some">This is an example</p>

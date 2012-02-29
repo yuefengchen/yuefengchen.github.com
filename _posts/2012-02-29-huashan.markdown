@@ -1,0 +1,9 @@
+---
+title  : Hua Shan
+layout : post
+---
+
+This is Hua Shan
+================
+
+![Alt Hello](https://lh5.googleusercontent.com/-hZx1Mklt6N4/T0z0RzxxS7I/AAAAAAAAAEk/t3N-ZkNJgdU/s640/huashan.jpg "fuck you")

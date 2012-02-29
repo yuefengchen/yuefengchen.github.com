@@ -1,18 +1,11 @@
 ---
-layout: master
+layout: default
 ---
-<div class="post">
-	<h2>{{ page.title}}</h2>
-    	<div class="date">
-		{{ page.date | date: "%B %d, %Y" }}
-	</div>
-	<div class="body">
-		{{ content }}
-	</div>
+<div class="post">	
+	<h2> {{page.title}} </h2>
+	<span class="date">{{ page.date | date:"%B %d, %Y" }}</span>
+	{{ content }}
 </div>
-
-
-
 
 <div id="related">
 	<div class="related_left">

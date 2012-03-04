@@ -3,7 +3,7 @@ title  : Topcoder Srm535 DIV1 500 Problem
 layout : post
 ---
 
-{% hightlight c++ %}
+{% highlight c++ %}
 class FoxAndBusiness 
 { 
         public: 

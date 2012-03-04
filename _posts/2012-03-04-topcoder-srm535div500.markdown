@@ -1,0 +1,35 @@
+---
+title  : Topcoder Srm535 DIV1 500 Problem
+layout : post
+---
+
+{% hightlight c++ %}
+class FoxAndBusiness 
+{ 
+        public: 
+	double minimumCost(int K, int totalWork, vector <int> a, vector <int> p)  
+	{  
+		double threshold = 1e-10;
+		double costmoney = 0; 
+		vector<double> c;
+		int N = a.size();
+		double left = 0, right = 1e20, mid, sum;
+		while( (right - left) > threshold ) {
+			mid = (left + right) / 2;
+			c.clear();
+			for(int i = 0; i < N; i ++)
+				c.push_back(a[i] * (p[i] - mid));
+			sort(c.begin(), c.end());
+			sum = 0;
+			for(int i = 0; i < K; i ++)
+				sum += c[i];
+			sum += 3600.0 * K;
+			if(sum <= 0)
+				right = mid;
+			else left = mid;
+		}
+		return mid * totalWork;
+		//return costmoney; 
+	}  
+}
+{% endhighlight %}

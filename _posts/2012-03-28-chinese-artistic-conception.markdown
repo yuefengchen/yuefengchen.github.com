@@ -3,7 +3,7 @@ title  : chinese artistic conception
 layout : post
 ---
 
-chinese artistic conception (א¹�¾³)
+chinese artistic conception （中国风意境）
 ================
 
 <a href="http://www.flickr.com/photos/yuefengchen/7023068571/" title="Flickr ʏ chenyuefeng µ chinesepicture"><img src="http://farm8.staticflickr.com/7273/7023068571_7f7bdbda7b_z.jpg" width="424" height="600" alt="chinesepicture"></a>

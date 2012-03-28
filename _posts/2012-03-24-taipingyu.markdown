@@ -3,7 +3,7 @@ title  : Tai Ping Yu
 layout : post
 ---
 
-Pacific Valley National Forest Park(Ì«Æ½Óø¹ú¼ÒÉ­ÁÖ¹«Ô°)
+Pacific Valley National Forest Park(å¤ªå¹³å³ªå›½å®¶æ£®æž—å…¬å›­)
 ================
 
 <a href="http://www.flickr.com/photos/yuefengchen/6867736462/" title="Flickr  chenyuefeng  taipingyu03-24"><img src="http://farm8.staticflickr.com/7106/6867736462_86cc9cfcbc_b.jpg" width="720" height="540" alt="taipingyu03-24"></a>
